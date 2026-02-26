@@ -1,6 +1,7 @@
 package miniproject;
 
 public class Main {
+
     public static void main(String[] args) {
         GameCharacter[] characters = new GameCharacter[3];
         characters[0] = new Warrior("Yasuo", 500, 50, 20);
